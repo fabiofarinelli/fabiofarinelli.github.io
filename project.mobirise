@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fabio Farinelli - Speaker - Voice Talent - Voce per la pubblicità",
-    "currentPage": "policy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-16513901-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-16513901-1');\r\n</script>\r\n",
     "siteUrl": "http://www.fabiofarinelli.it",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: *\nAllow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: Adsbot-Google\nAllow: /\n\nUser-agent: Googlebot-Image\nAllow: /\n\nUser-agent: Googlebot-Mobile\nAllow: /\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
